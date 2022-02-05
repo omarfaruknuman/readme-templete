@@ -95,8 +95,8 @@ http://www.facebook.com
 
 
 <!-- All links are here  -->
-[Instagram Link]: (http://www.instagram.com)
-[Twetter link]: (http://www.twetter.com)
+[Instagram Link]:(http://www.instagram.com)
+[Twetter link]:(http://www.twetter.com)
 [Imo link]:(http://www.imo.com)
 
 
